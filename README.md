@@ -2,7 +2,7 @@
 
 - I'm currently pursuing a Master's degree in Informatics and Computing Engineering (MEIC) at the Faculty of Engineering of the University of Porto (FEUP).
 
-- My main areas of interest are **Artificial Intelligence**, **Machine Learning** and **Big Data**.
+- My main areas of interest are **Artificial Intelligence**, **Machine Learning** and **Data Science**.
 
 ### 📊 GitHub Stats
 <!-- This card automatically updates based on your GitHub activity -->
